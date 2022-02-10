@@ -1,5 +1,5 @@
 
-package c482project_jpillo2;
+package InventoryTracker;
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
@@ -23,7 +23,7 @@ import model.Product;
  * JavaDoc folder is included in the src folder.
  * @author Jennifer Pillow jpillo2@wgu.edu
  */
-public class C482Project_JPillo2 extends Application{
+public class InventoryTracker extends Application{
 
     /**
      * This is the main method that launches the inventory program.
